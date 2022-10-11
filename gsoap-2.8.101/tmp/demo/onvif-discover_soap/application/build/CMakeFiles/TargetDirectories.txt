@@ -1,0 +1,3 @@
+/home/brian/work_dir/onvif-learning/gsoap-2.8.101/tmp/demo/onvif-discover_soap/application/build/CMakeFiles/onvif-discover.dir
+/home/brian/work_dir/onvif-learning/gsoap-2.8.101/tmp/demo/onvif-discover_soap/application/build/CMakeFiles/edit_cache.dir
+/home/brian/work_dir/onvif-learning/gsoap-2.8.101/tmp/demo/onvif-discover_soap/application/build/CMakeFiles/rebuild_cache.dir

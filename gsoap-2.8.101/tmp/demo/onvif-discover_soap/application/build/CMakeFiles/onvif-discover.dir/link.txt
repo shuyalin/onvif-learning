@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/onvif-discover.dir/deivceserver.cpp.o" "CMakeFiles/onvif-discover.dir/deviceprobe.cpp.o" "CMakeFiles/onvif-discover.dir/soapC.cpp.o" "CMakeFiles/onvif-discover.dir/soapClient.cpp.o" "CMakeFiles/onvif-discover.dir/soapServer.cpp.o" "CMakeFiles/onvif-discover.dir/stdsoap2.cpp.o" -o onvif-discover 
